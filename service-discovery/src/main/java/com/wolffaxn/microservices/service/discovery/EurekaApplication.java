@@ -1,4 +1,4 @@
-package com.wolffaxn.microservices.server.discovery;
+package com.wolffaxn.microservices.service.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
